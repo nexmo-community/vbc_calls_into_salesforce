@@ -1,4 +1,3 @@
-var request = require("request");
 var jsforce = require('jsforce');
 var conn = new jsforce.Connection();
 
