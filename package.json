@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "~4.14.0",
+    "express": "~4.16.0",
     "jsforce": "^1.9.3"
   }
 }
